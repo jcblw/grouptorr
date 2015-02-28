@@ -1,5 +1,5 @@
 {
-  "name": "signboard",
+  "name": "grouptorr",
   "version": "1.0.0",
   "description": "a collabrative sign board using web torrents",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/jcblw/signboard"
+    "url": "https://github.com/jcblw/grouptorr.git"
   },
   "keywords": [
     "torrents",
@@ -19,9 +19,9 @@
   "author": "Jacob Lowe",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jcblw/signboard/issues"
+    "url": "https://github.com/jcblw/grouptorr/issues"
   },
-  "homepage": "https://github.com/jcblw/signboard",
+  "homepage": "https://github.com/jcblw/grouptorr",
   "devDependencies": {
     "babel": "^4.6.1",
     "browserify": "^9.0.3",
