@@ -23,27 +23,27 @@
   },
   "homepage": "https://github.com/jcblw/grouptorr",
   "devDependencies": {
-    "babel": "^4.6.1",
-    "babelify": "^5.0.3",
-    "browserify": "^9.0.3",
+    "babel": "^6.23.0",
+    "babelify": "^7.3.0",
+    "browserify": "^14.3.0",
     "nodemon": "^1.3.7",
-    "watchify": "^2.4.0"
+    "watchify": "^3.9.0"
   },
   "dependencies": {
-    "ampersand-router": "^1.0.7",
-    "async": "^0.9.0",
-    "braintree": "^1.23.0",
+    "ampersand-router": "^4.0.0",
+    "async": "^2.4.0",
+    "braintree": "^2.1.1",
     "domla": "^0.2.1",
-    "dotenv": "^0.5.1",
+    "dotenv": "^4.0.0",
     "drag-drop": "^2.0.0",
     "formidable": "^1.0.17",
-    "leveldown": "^0.10.4",
-    "levelup": "^0.19.0",
+    "leveldown": "^1.6.0",
+    "levelup": "^1.3.6",
     "mkdirp": "^0.5.0",
     "multiparty": "^4.1.1",
     "node-uuid": "^1.4.2",
     "page": "^1.6.1",
-    "webtorrent": "^0.27.2",
+    "webtorrent": "^0.98.18",
     "xhr": "^2.0.1",
     "xhr-write-stream": "^0.1.2"
   }
